@@ -1,0 +1,19 @@
+body {
+  /* font-family */
+}
+
+#head-section {
+  background-color: slategray;
+}
+
+#about-section {
+  background-color: skyblue;
+}
+
+#works-section {
+  background-color: tomato;
+}
+
+#contact-section {
+  background-color: green;
+}
